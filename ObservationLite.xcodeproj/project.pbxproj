@@ -32,7 +32,7 @@
 		201AAB2E24EE4853008F3AE1 /* Disposable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Disposable.swift; sourceTree = "<group>"; };
 		201AAB2F24EE4853008F3AE1 /* Observable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Observable.swift; sourceTree = "<group>"; };
 		201AAB3024EE4853008F3AE1 /* Subject.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Subject.swift; sourceTree = "<group>"; };
-		201AAB3124EE4867008F3AE1 /* Observable.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; path = Observable.podspec; sourceTree = "<group>"; };
+		201AAB3124EE4867008F3AE1 /* ObservationLite.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; path = ObservationLite.podspec; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,7 +110,7 @@
 		201AAB2D24EE4837008F3AE1 /* Deploy */ = {
 			isa = PBXGroup;
 			children = (
-				201AAB3124EE4867008F3AE1 /* Observable.podspec */,
+				201AAB3124EE4867008F3AE1 /* ObservationLite.podspec */,
 			);
 			name = Deploy;
 			sourceTree = "<group>";

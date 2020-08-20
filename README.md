@@ -13,7 +13,7 @@
 例如：
 
 ```swift
-let batteryLevelEventPublisher = BehaviorSubject(value: 0.0)
+let batteryLevelEventPublisher = BehaviorSubject(event: 0.0)
 let chargingEventPublisher = PublishSubject<Bool>()
 
 batteryLevelEventPublisher.publish(0.8)
