@@ -3,6 +3,30 @@
 
 
 
+## Requirements
+
+- iOS 9.0+ | macOS 10.10+ | tvOS 9.0+ | watchOS 3.0+
+
+- Xcode 11
+
+  
+
+## Integration
+
+#### CocoaPods (iOS 8+, OS X 10.9+)
+
+You can use [CocoaPods](http://cocoapods.org/) to install `SwiftyJSON` by adding it to your `Podfile`:
+
+```ruby
+platform :ios, '9.0'
+use_frameworks!
+target 'MyApp' do
+    pod 'ObservationLite', '~> 1.0'
+end
+```
+
+
+
 ## 事件发布
 
 事件发布有两个类: *PublishSubject* 和 *BehaviorSubject*。它们的区别：
