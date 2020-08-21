@@ -5,7 +5,7 @@ Pod::Spec.new do |spec|
   spec.version      = '1.0.1'
   spec.summary      = 'A very lightweight & multi-platform observable using swift.'
   spec.homepage     = 'https://evanxlh.github.io'
-  spec.license      = { :type => "MIT" }
+  spec.license      = { :type => 'MIT' }
   spec.author       = { 'Evan Xie' => 'evanxie.mr@foxmail.com' }
 
   spec.swift_version = '5.0'

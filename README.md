@@ -13,15 +13,15 @@
 
 ## Integration
 
-#### CocoaPods (iOS 8+, OS X 10.9+)
+#### CocoaPods (iOS 9+)
 
-You can use [CocoaPods](http://cocoapods.org/) to install `SwiftyJSON` by adding it to your `Podfile`:
+You can use [CocoaPods](http://cocoapods.org/) to install `ObservationLite` by adding it to your `Podfile`:
 
 ```ruby
 platform :ios, '9.0'
 use_frameworks!
 target 'MyApp' do
-    pod 'ObservationLite', '~> 1.0'
+    pod 'ObservationLite', '1.0.1'
 end
 ```
 

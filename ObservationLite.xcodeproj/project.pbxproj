@@ -20,6 +20,9 @@
 		201AAB3D24EE5168008F3AE1 /* Disposable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 201AAB2E24EE4853008F3AE1 /* Disposable.swift */; };
 		201AAB3E24EE5168008F3AE1 /* Observable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 201AAB2F24EE4853008F3AE1 /* Observable.swift */; };
 		201AAB3F24EE5168008F3AE1 /* Subject.swift in Sources */ = {isa = PBXBuildFile; fileRef = 201AAB3024EE4853008F3AE1 /* Subject.swift */; };
+		20D21F0E24EFE088001A068B /* ObservationLite.h in Headers */ = {isa = PBXBuildFile; fileRef = 201AAAFF24EE466E008F3AE1 /* ObservationLite.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		20D21F0F24EFE089001A068B /* ObservationLite.h in Headers */ = {isa = PBXBuildFile; fileRef = 201AAAFF24EE466E008F3AE1 /* ObservationLite.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		20D21F1024EFE089001A068B /* ObservationLite.h in Headers */ = {isa = PBXBuildFile; fileRef = 201AAAFF24EE466E008F3AE1 /* ObservationLite.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -130,6 +133,7 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				20D21F0E24EFE088001A068B /* ObservationLite.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,6 +141,7 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				20D21F0F24EFE089001A068B /* ObservationLite.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -144,6 +149,7 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				20D21F1024EFE089001A068B /* ObservationLite.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
